@@ -1,0 +1,87 @@
+
+body {
+    color: #40514E;
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 180%;
+}
+
+h1 {
+    font-size: 5.625rem;
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: #E4F9F5;
+}
+
+.bottom-container {
+    background-color: blue;
+}
+
+.skill-row {
+    width: 70%;
+    margin: 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.pass {
+    text-decoration: underline;
+}
+
+.tree-liushu {
+    position: absolute;
+    left: 1100px;
+    top: 50px;
+    width: 300px;
+}
+
+.city-liuzhou {
+    position: absolute;
+    left: 100px;
+    bottom: 300px;
+}
+
+.ball {
+    width: 40%;
+}
+
+.computer {
+    float: left;
+    margin-right: 30px;
+    width: 35%;
+}
+
+.footer-link {
+    color: #11999E;
+}
+
+.subtitle {
+    font-weight: bold
+}
+
+
+
+
+
+
